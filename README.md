@@ -15,7 +15,7 @@ Este é o módulo de backend do Sistema Escolar, desenvolvido em Java com Spring
 - Maven
 
 ## Como Rodar o Projeto
-1. Certifique-se de ter o Java 17+ e o Maven instalados.
+1. Certifique-se de ter o Java 17+ e o Maven instalados..
 2. Configure o PostgreSQL e crie um banco de dados (ex: `sistema_escolar_db`).
 3. Atualize o arquivo `src/main/resources/application.properties` com as suas credenciais do banco de dados.
 4. No terminal, navegue até a pasta `backend` e execute:
